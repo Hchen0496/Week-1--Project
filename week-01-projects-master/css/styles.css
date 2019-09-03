@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+
+body{
+	
+}
+.button{
+	float: left;
+	text-underline-position: left;
+	column-width: 10px;
+	}
+#container2{
+	margin-left: 2rem;
+}
+</style>
+</head>
